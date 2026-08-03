@@ -42,4 +42,4 @@ Dubai / Bangalore / Himalayas — building, unbuilding, repeat.
 
 ---
 
-*Om, in binary: 01001111 01101101*
+*01001111 01101101*
